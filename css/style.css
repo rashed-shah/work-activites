@@ -1,0 +1,38 @@
+.btn4{
+    border: none;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 20px;
+    padding: 10px;
+    color: white;
+    font-weight: 700;
+    background: red;
+    border-radius: 8px;
+    font-size: 22px;
+    font-family: "Bebas Neue";
+}
+.btn4:hover{
+    background: transparent;
+    color: red;
+    border: 1px solid red;
+    transition: 0.5s all ease-in-out;
+}
+span{
+    color: orangered;
+    font-size: 18px;
+}
+h4{
+   display: flex;
+    font-family: "Bebas Neue";
+    background-color: #ffc135;
+    padding: 8px 20px;
+    font-size: 20px;
+    border: 1px solid transparent;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+h4:hover{
+    background-color: #fff;
+    transition: 0.5s all ease-in-out;
+    border: 1px solid #ffc135;
+}
